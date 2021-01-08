@@ -1,3 +1,4 @@
+#!/bin/bash
 if [[ -z $1 ]]; then
     echo "Please provide project name as argument 1"
 else
